@@ -1,6 +1,6 @@
-# CIVIDS
-CIVIDS aims to provide a framework for collaborative intrusion detection system for the automotive domain
-## Collaborative In-vehicle Intrusion Detection Systems
+# CIVID
+CIVID aims to provide a framework for collaborative intrusion detection system for the automotive domain
+## Collaborative In-vehicle Intrusion Detection
 
 This repo consists of all files related to the masters thesis conducted by Daniel Aryan and Kristoffer Söderberg, during the Spring of 2021, at Chalmers University of Technology.
 
@@ -11,7 +11,7 @@ The examiner of this thesis was Christian Berger.
 
 ## Structure of this Repository
 
- * `Implementation` contains all files related to the implementation of the CIVIDS framework.
+ * `Implementation` contains all files related to the implementation of the CIVID framework.
  * `Implementation/Data` Contains the dataset files used during the implementation. 
  * `Implementation/Other` Contains both the resources used to train the ML models, as well as the scripts used 	to generate simulation runs 
  * `Implementation/Simulation` Contains the python files used to simulate a virtual CAN-network and to collect the experimental results 
